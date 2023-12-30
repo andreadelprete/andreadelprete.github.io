@@ -48,7 +48,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+<!-- skills:
   - name: Technical
     items:
       - name: Python
@@ -84,13 +84,13 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
-        icon_pack: fas
+        icon_pack: fas -->
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+<!-- social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -114,7 +114,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume.pdf -->
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
