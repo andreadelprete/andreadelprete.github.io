@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-12-31
 type: landing
 
 sections:
@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -63,6 +63,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Post-Doc
+          company: iCub Facility, Italian Institute of Technology
+          company_url: ''
+          # company_logo: ''
+          location: Genova, Italy
+          date_start: '2013-01-01'
+          date_end: '2013-12-31'
+          description: |2-
+              Multi-contact force control for the iCub humanoid robot, in the framework of the CoDyCo EU project.
+        - title: Post-Doc
           company: LAAS/CNRS
           company_url: ''
           # company_logo: ''
@@ -70,7 +79,8 @@ sections:
           date_start: '2014-01-01'
           date_end: '2017-12-31'
           description: |2-
-              Optimization-based control for the humanoid robot HRP-2.
+              Control of the humanoid robot HRP-2 using robust optimization, stochastic optimization, motor identification, torque control, hierarchical trajectory 
+              optimization.
 
         - title: Associate Researcher
           company: Max Planck Institute for Intelligent Systems
@@ -78,8 +88,17 @@ sections:
           # company_logo: org-x
           location: Tuebingen, Germany
           date_start: '2018-01-01'
-          date_end: '2018-31-12'
+          date_end: '2018-12-31'
           description: Optimization-based control for the humanoid robot Athena.
+
+        - title: Assistant Professor (tenure track)
+          company: Industrial Engineering Department, University of Trento
+          company_url: ''
+          # company_logo: org-x
+          location: Trento, Italy
+          date_start: '2019-01-01'
+          date_end: '2021-12-31'
+          description: Teaching computer programming and optimization-based robot control.
     design:
       columns: '2'
   # - block: accomplishments
@@ -231,16 +250,16 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Here are my contact information
+      # text: |-
+        # Here are my contact information
       # Contact (add or remove contact options as necessary)
       email: andrea.delprete@unitn.it
-      phone: 0049 0461
+      phone: 0049 0461 281915
       # appointment_url: 'https://calendly.com'
       address:
         street: Via Sommarive 9
         city: Trento
-        region: Trentino Alto Adige
+        # region: Trentino Alto Adige
         postcode: '38123'
         country: Italy
         country_code: IT
