@@ -254,7 +254,7 @@ sections:
         # Here are my contact information
       # Contact (add or remove contact options as necessary)
       email: andrea.delprete@unitn.it
-      phone: 0049 0461 281915
+      phone: 0039 0461 281915
       # appointment_url: 'https://calendly.com'
       address:
         street: Via Sommarive 9
