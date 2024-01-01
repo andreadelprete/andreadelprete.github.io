@@ -62,18 +62,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD
+          company: Dept. "Robotics, Brains and Cognitive Science", Italian Institute of Technology
+          company_url: 'https://www.iit.it/it/home'
+          # company_logo: ''
+          location: Genova, Italy
+          date_start: '2010-01-01'
+          date_end: '2012-12-31'
+          description: Motion and force control of the iCub humanoid robot, using force and tactile sensors.
+
         - title: Post-Doc
           company: iCub Facility, Italian Institute of Technology
-          company_url: ''
+          company_url: 'https://www.iit.it/it/cris-sanquirico'
           # company_logo: ''
           location: Genova, Italy
           date_start: '2013-01-01'
           date_end: '2013-12-31'
           description: |2-
               Multi-contact force control for the iCub humanoid robot, in the framework of the CoDyCo EU project.
+
         - title: Post-Doc
-          company: LAAS/CNRS
-          company_url: ''
+          company: Gepetto team, LAAS/CNRS
+          company_url: 'http://projects.laas.fr/gepetto/index.php'
           # company_logo: ''
           location: Toulouse, France
           date_start: '2014-01-01'
@@ -84,7 +94,7 @@ sections:
 
         - title: Associate Researcher
           company: Max Planck Institute for Intelligent Systems
-          company_url: ''
+          company_url: 'https://is.tuebingen.mpg.de/person/lrighetti'
           # company_logo: org-x
           location: Tuebingen, Germany
           date_start: '2018-01-01'
@@ -93,12 +103,20 @@ sections:
 
         - title: Assistant Professor (tenure track)
           company: Industrial Engineering Department, University of Trento
-          company_url: ''
+          company_url: 'https://www.dii.unitn.it'
           # company_logo: org-x
           location: Trento, Italy
           date_start: '2019-01-01'
           date_end: '2021-12-31'
-          description: Teaching computer programming and optimization-based robot control.
+          description: Research on robot co-design, robust and stochastic model predictive control. Teaching computer programming and optimization-based robot control.
+
+        - title: Associate Professor
+          company: Industrial Engineering Department, University of Trento
+          company_url: 'https://www.dii.unitn.it'
+          # company_logo: org-x
+          location: Trento, Italy
+          date_start: '2022-01-01'
+          description: Carrying out research on merging learning and model-based techniques to achieve safe robot control. Teaching courses on robotics and programming for bachelor and master students.
     design:
       columns: '2'
   # - block: accomplishments
@@ -196,7 +214,35 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
+
+  - block: collection
+    id: students
+    content:
+      title: PhD Students
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - students
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
 
   # - block: markdown
   #   content:

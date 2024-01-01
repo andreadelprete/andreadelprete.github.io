@@ -1,5 +1,5 @@
 ---
-title: Optimization-based Control of Legged Robots
+title: Control of Legged Robots
 summary: A 12-hour course for PhD students about reactive control (TSID) and trajectory optimization for legged robots.
 tags:
   - Trajectory Optimization
@@ -52,7 +52,7 @@ The course is split in two parts, covering the following topics:
 * Implementation in Python (exploiting existing library)
 * Connecting Part 2 with Part 1 to get a legged robot walking in simulation
 
-Following the link above you can find the videos of all the lectures (except the first one, which wasn't recorded).
+Following the link above you can find the videos of all the lectures recorded in 2019 (except the first one, which wasn't recorded).
 Here you can find the slides:
 
 - [Modeling](https://andreadelprete.github.io/teaching/2019_PhD_obrc/1_modeling.pdf)
