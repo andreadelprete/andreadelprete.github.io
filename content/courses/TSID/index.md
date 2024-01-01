@@ -35,9 +35,9 @@ url_video: ''
 
 A 3-hour class about TSID, covering both theory and implementation. Here you can find videos and slides:
 
-- TSID Theory ([slides](https://andreadelprete.github.io/teaching/tsid/1_tsid_theory.pdf),  [video](https://www.youtube.com/watch?v=lSPSLbgrtQg&t=1834s))
-- TSID Implementation ([slides](https://andreadelprete.github.io/teaching/tsid/2_tsid_implementation.pdf), [video](https://www.youtube.com/watch?v=c9g3L3YMhds))
+- TSID Theory ([slides](https://andreadelprete.github.io/teaching/2019_tsid/1_tsid_theory.pdf),  [video](https://www.youtube.com/watch?v=lSPSLbgrtQg&t=1834s))
+- TSID Implementation ([slides](https://andreadelprete.github.io/teaching/2019_tsid/2_tsid_implementation.pdf), [video](https://www.youtube.com/watch?v=c9g3L3YMhds))
 
 I have also given a class on [robust TSID](https://andreadelprete.github.io/publication/2016_tro_robust_inv_dyn/):
 
-- Robust TSID ([slides](https://andreadelprete.github.io/teaching/tsid/3_tsid_robust.pdf),  [video](https://www.youtube.com/watch?v=gBFh7GF-h4M))
+- Robust TSID ([slides](https://andreadelprete.github.io/teaching/2019_tsid/3_tsid_robust.pdf),  [video](https://www.youtube.com/watch?v=gBFh7GF-h4M))
