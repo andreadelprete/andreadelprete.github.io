@@ -33,6 +33,6 @@ tags:
 - Robotics
 - Spring-damper
 links:
-- name: URL
-  url: http://dx.doi.org/10.1007/s11044-022-09818-z
+- name: arXiv
+  url: https://arxiv.org/pdf/2101.06846.pdf
 ---

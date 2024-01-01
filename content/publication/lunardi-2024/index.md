@@ -12,4 +12,7 @@ publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (submitted
   to)*'
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2309.11124.pdf
 ---

@@ -13,4 +13,7 @@ tags:
 - Motion control
 - optimization and optimal control
 - robot safety
+links:
+- name: paper
+  url: https://hal.science/hal-03830949/document
 ---

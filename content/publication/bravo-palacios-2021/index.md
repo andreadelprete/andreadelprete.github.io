@@ -26,4 +26,7 @@ abstract: 'This article proposes a new framework for the computational design of
   and improved energy efficiency (e.g., 91% decrease in tracking error and ≈5% decrease
   in energy consumption for a manipulator) compared to linear quadratic regulator
   applied to a design optimized for nominal conditions.'
+links:
+- name: paper
+  url: https://www.researchgate.net/profile/Gabriel-Bravo-Palacios/publication/354639843_Robust_Co-Design_Coupling_Morphology_and_Feedback_Design_Through_Stochastic_Programming/links/619ff2b36b9a6f0967054158/Robust-Co-Design-Coupling-Morphology-and-Feedback-Design-Through-Stochastic-Programming.pdf
 ---

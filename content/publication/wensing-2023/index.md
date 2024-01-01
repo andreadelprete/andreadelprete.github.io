@@ -39,6 +39,4 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2211.11644
-- name: URL
-  url: http://arxiv.org/abs/2211.11644
 ---
