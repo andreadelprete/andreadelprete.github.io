@@ -21,8 +21,8 @@ external_link: ''
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/andreadelprete/orc'
 url_pdf: ''
-url_slides: 'https://drive.google.com/drive/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?resourcekey=0-I1fIOhuCcD70vbpYMve4MQ&usp=sharing'
-url_video: 'https://drive.google.com/drive/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?resourcekey=0-I1fIOhuCcD70vbpYMve4MQ&usp=sharing'
+url_slides: 'https://drive.google.com/drive/folders/1k8dJvZjvu2eXAbc_voIXrQdjUfSksdFz?usp=sharing'
+url_video: 'https://drive.google.com/drive/folders/1jY86wkFWQU4R5yOF53WuREYA6XhTOIYm?usp=sharing'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -41,7 +41,7 @@ This course focuses on control of robotic systems, with special attention to met
 - implement, tune, and test control algorithms with the Python language
 
 
-In the links above you can find videos and slides of all the lectures of two academic years (19 /20 and 20 /21, even though in 19 /20 the first lectures have not been recorded). You can also find a virtual machine (password: iamarobot) containing the software needed for the lab sessions. Since 2023, the suggested environment for coding has switched to docker. Installation instructions can be find in the github repository linked above.
+Using the links above you can find videos and slides of all the lectures recorded in 2022. Since 2023, the suggested environment for coding has switched to docker. Installation instructions can be found [here](https://drive.google.com/drive/folders/1yB_6c4WcW8iM2OoO0Vb_JE-3eKr7n6Hz?usp=sharing).
 
 # Content 
 The course includes approximately 32 hours of lectures (program below) and 16 hours of programming exercises.
