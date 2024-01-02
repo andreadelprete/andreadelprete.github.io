@@ -26,7 +26,7 @@ abstract: The ability to anticipate a fall is fundamental for any robot that has
   when controlled with a state-of-the-art balance controller. This work lays the foundations
   for the solution of the challenging problem of push recovery in multi-contact scenarios.
 tags:
-- Index Terms—Stability
+- Stability
 - Legged Robots
 - Multi-Contact
 - Viability
