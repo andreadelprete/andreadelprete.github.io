@@ -8,14 +8,6 @@ authors:
 - Andrea Del Prete
 - Justin Carpentier
 - Philippe Souères
-- Andrea Del
-- Gabriele Fadini
-- S Kumar
-- Rohit Kumar
-- Thomas Flayols
-- A Del Prete
-- Justin Carpentier
-- P Soù Eres
 date: '2024-01-01'
 publishDate: '2024-01-02T20:41:43.935766Z'
 publication_types:
@@ -35,7 +27,7 @@ abstract: This paper presents a bi-level optimization framework to concurrently 
   understand the trade-off between these different choices, a Pareto set is constructed
   to guide the design of the next prototype.
 tags:
-- Index Terms-Methods and Tools for Robot System Des
+- Methods and Tools for Robot System Des
 - Mechanism Design
 - Optimization and Optimal Control
 - Simulation and Animation
