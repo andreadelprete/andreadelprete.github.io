@@ -42,14 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: skills
-  #   content:
-  #     title: Skills
-  #     text: ''
-  #     # Choose a user to display skills from (a folder name within `content/authors/`)
-  #     username: admin
-  #   design:
-  #     columns: '1'
+  
   - block: experience
     content:
       title: Experience
@@ -57,9 +50,7 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Experiences.
-      #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD
@@ -81,7 +72,7 @@ sections:
           description: |2-
               Multi-contact force control for the iCub humanoid robot, in the framework of the CoDyCo EU project.
 
-        - title: Post-Doc
+        - title: Post-Doc / Associated Researcher
           company: Gepetto team, LAAS/CNRS
           company_url: 'http://projects.laas.fr/gepetto/index.php'
           # company_logo: ''
@@ -92,7 +83,7 @@ sections:
               Control of the humanoid robot HRP-2 using robust optimization, stochastic optimization, motor identification, torque control, hierarchical trajectory 
               optimization.
 
-        - title: Associate Researcher
+        - title: Research Scientist
           company: Max Planck Institute for Intelligent Systems
           company_url: 'https://is.tuebingen.mpg.de/person/lrighetti'
           # company_logo: org-x
@@ -119,48 +110,7 @@ sections:
           description: Carrying out research on merging learning and model-based techniques to achieve safe robot control. Teaching courses on robotics and programming for bachelor and master students.
     design:
       columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         icon: edx
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         icon: datacamp
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
+  
   # - block: collection
   #   id: posts
   #   content:
@@ -188,6 +138,7 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
+  
   - block: portfolio
     id: courses
     content:
@@ -244,14 +195,7 @@ sections:
       view: compact
       columns: '2'
 
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+
   # - block: collection
   #   id: featured
   #   content:
@@ -299,7 +243,6 @@ sections:
       title: Contact
       subtitle:
       # text: |-
-        # Here are my contact information
       # Contact (add or remove contact options as necessary)
       email: andrea.delprete@unitn.it
       phone: 0039 0461 281915
@@ -307,7 +250,6 @@ sections:
       address:
         street: Via Sommarive 9
         city: Trento
-        # region: Trentino Alto Adige
         postcode: '38123'
         country: Italy
         country_code: IT
@@ -331,14 +273,6 @@ sections:
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '2'
 ---
