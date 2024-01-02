@@ -34,4 +34,6 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.12066
+- name: Video
+  url: https://www.mdpi.com/article/10.3390/s23031234/s1
 ---
