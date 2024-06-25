@@ -12,7 +12,7 @@ date: '2024-01-01'
 publishDate: '2024-01-02T20:41:43.935766Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transaction on Robotics (under review)*'
+publication: '*Robotica (under review)*'
 abstract: This paper presents a bi-level optimization framework to concurrently optimize
   a quadruped hardware and control policies for achieving dynamic cyclic behaviors.
   The long-term vision to drive the design of dynamic and efficient robots by means
