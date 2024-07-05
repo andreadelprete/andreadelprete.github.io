@@ -133,5 +133,5 @@ Before going to LAAS I had spent four years (3 of PhD + 1 of post-doc) at the It
 
 In 2013 I also started a fruitful collaboration with [Michele Focchi](https://mfocchi.github.io/), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
 
-Since 2020 I am serving as an Associate Editor for [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l).
+I am currently serving as an Associate Editor for [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l) (since 2020) and for [IEEE Transactions on Robotics](https://www.ieee-ras.org/publications/t-ro) (since 2024).
 {style="text-align: justify;"}
