@@ -1,5 +1,5 @@
 ---
-title: Control of Legged Robots
+title: Optimization-based Control of Legged Robots
 summary: A 12-hour course for PhD students about reactive control (TSID) and trajectory optimization for legged robots.
 tags:
   - Trajectory Optimization
@@ -22,7 +22,7 @@ external_link: ''
 url_code: 'https://github.com/andreadelprete/orc'
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/playlist?list=PL4nPbSX5VFGg5Izt8hjyQ_2R8rdnn6qWg'
+url_video: 'https://www.youtube.com/playlist?list=PL4nPbSX5VFGhjPfdWK3nFhjtkY4yfjBnF'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -52,12 +52,12 @@ The course is split in two parts, covering the following topics:
 * Implementation in Python (exploiting existing library)
 * Connecting Part 2 with Part 1 to get a legged robot walking in simulation
 
-Following the link above you can find the videos of all the lectures recorded in 2019 (except the first one, which wasn't recorded).
+Following the link above you can find the videos of all the lectures recorded in 2023.
 Here you can find the slides:
 
-- [Modeling](https://andreadelprete.github.io/teaching/2019_PhD_obrc/1_modeling.pdf)
-- [Joint-Space Control](https://andreadelprete.github.io/teaching/2019_PhD_obrc/2_joint_space_control.pdf)
-- [Joint-Space Control (implementation)](https://andreadelprete.github.io/teaching/2019_PhD_obrc/2b_tsid_implementation_joint_space.pdf)
-- [Task-Space Control](https://andreadelprete.github.io/teaching/2019_PhD_obrc/3_task_space_control.pdf)
-- [Task-Space Control (implementation)](https://andreadelprete.github.io/teaching/2019_PhD_obrc/4_tsid_implementation.pdf)
-- [CoM Trajectory Optimization](https://andreadelprete.github.io/teaching/2019_PhD_obrc/5_com_traj_opt.pdf)
+- [Modeling](https://andreadelprete.github.io/teaching/2023_PhD_oclr/1_modeling.pdf)
+- [Joint-Space Control](https://andreadelprete.github.io/teaching/2023_PhD_oclr/2_joint_space_control.pdf)
+- [Joint-Space Control (implementation)](https://andreadelprete.github.io/teaching/2023_PhD_oclr/2b_tsid_implementation_joint_space.pdf)
+- [Task-Space Control](https://andreadelprete.github.io/teaching/2023_PhD_oclr/3_task_space_control.pdf)
+- [Task-Space Control (implementation)](https://andreadelprete.github.io/teaching/2023_PhD_oclr/4_tsid_implementation.pdf)
+- [CoM Trajectory Optimization](https://andreadelprete.github.io/teaching/2023_PhD_oclr/5_com_traj_opt.pdf)
