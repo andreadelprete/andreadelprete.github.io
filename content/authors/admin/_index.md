@@ -122,16 +122,14 @@ social:
 highlight_name: true
 ---
 
-Since 2022 I have been an associate professor in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy), where I am teaching optimal control and reinforcement learning for robotics, and computer programming in C++.
-From 2019 to 2021 I had been a tenure-track assistant professor (RTD-B) in the same department.
+Since 2022 I have been an associate professor in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy), where I am part of the Interdepartmental Robotics Lab ([IDRA](https://idra-lab.github.io/)).
+From 2019 to 2021 I had been a tenure-track assistant professor (RTD-B) in the same department, where I teach optimal control and reinforcement learning for robotics, and computer programming in C++.
 
 In 2018 I had been a research scientist in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
 
 From 2014 to 2017 I had been an associated researcher in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) (LAAS-CNRS, Toulouse), where I have been working with the humanoid robot HRP-2. My main collaborations were with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Steve Tonneau](http://stevetonneau.fr/) and [Justin Carpentier](https://jcarpent.github.io/).
 
 Before going to LAAS I had spent four years (3 of PhD + 1 of post-doc) at the Italian Institute of Technology (IIT, Genova, Italy), where I had been working with [Lorenzo Natale](http://lornat75.github.io/) and [Francesco Nori](http://iron76.github.io/) on the [iCub](http://www.icub.org/) humanoid robot.
-
-In 2013 I also started a fruitful collaboration with [Michele Focchi](https://mfocchi.github.io/), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
 
 I am currently serving as an Associate Editor for [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l) (since 2020) and for [IEEE Transactions on Robotics](https://www.ieee-ras.org/publications/t-ro) (since 2024).
 {style="text-align: justify;"}
