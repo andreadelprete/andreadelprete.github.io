@@ -1,5 +1,5 @@
 ---
-title: Gianni Lunardi (2021-present)
+title: Gianni Lunardi (2021-2025)
 subtitle: 
 
 # Summary for listings and search engines
