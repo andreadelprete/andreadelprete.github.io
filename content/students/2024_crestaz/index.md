@@ -3,7 +3,7 @@ title: Pietro Noah Crestaz (2024-present)
 subtitle: 
 
 # Summary for listings and search engines
-summary: PhD Student, Industrial Engineering Department, University of Trento. Topic "Numerically-efficient Reinforcement learning for Robotics".
+summary: PhD Student, Industrial Engineering Department of the University of Trento and LAAS/CNRS (co-supervision with [Nicolas Mansard](https://gepettoweb.laas.fr/index.php/Members/NicolasMansard)). Topic "Numerically-efficient Reinforcement learning for Robotics".
 
 # Link this post with a project
 projects: []
