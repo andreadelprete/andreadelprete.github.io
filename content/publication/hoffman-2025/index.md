@@ -11,7 +11,7 @@ date: '2025-08-01'
 publishDate: '2025-03-01T13:16:02.970556Z'
 publication_types:
 - article-journal
-publication: '*IEEE Robotics and Automation Letters*'
+publication: '*IEEE Robotics and Automation Letters (RAL)*'
 doi: 10.1109/LRA.2025.3530109
 links:
 - name: URL
