@@ -7,10 +7,10 @@ authors:
 - Andrea Del Prete
 - Luca Zaccarian
 date: '2024-01-01'
-publishDate: '2024-06-25T07:03:04.230809Z'
+publishDate: '2025-04-01T07:03:04.230809Z'
 publication_types:
 - article-journal
-publication: '*Automatica (under review)*'
+publication: '*Automatica*'
 abstract: We propose a hybrid formulation of the linear inverted pendulum model for
   bipedal locomotion, where the foot switches are triggered based on the center of
   mass position, removing the need for pre-defined footstep timings. Using a concept
@@ -28,5 +28,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2405.02184
 - name: URL
-  url: http://arxiv.org/abs/2405.02184
+  url: https://www.sciencedirect.com/science/article/pii/S0005109824005995
 ---

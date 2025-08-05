@@ -9,10 +9,10 @@ authors:
 - Justin Carpentier
 - Philippe Souères
 date: '2024-01-01'
-publishDate: '2024-01-02T20:41:43.935766Z'
+publishDate: '2024-05-09T20:41:43.935766Z'
 publication_types:
 - article-journal
-publication: '*Robotica (under review)*'
+publication: '*Robotica*'
 abstract: This paper presents a bi-level optimization framework to concurrently optimize
   a quadruped hardware and control policies for achieving dynamic cyclic behaviors.
   The long-term vision to drive the design of dynamic and efficient robots by means
@@ -32,6 +32,8 @@ tags:
 - Optimization and Optimal Control
 - Simulation and Animation
 links:
-- name: URL
+- name: HAL
   url: https://laas.hal.science/hal-04162737/
+- name: URL
+  url: https://www.cambridge.org/core/journals/robotica/article/codesigning-versatile-quadruped-robots-for-dynamic-and-energyefficient-motions/4BB90A9CB0BCBC185613E0DC7D0D88B0
 ---
