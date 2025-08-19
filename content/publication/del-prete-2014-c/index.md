@@ -1,6 +1,6 @@
 ---
-title: 'Prioritized Motion-Force Control of Constrained Fully-Actuated Robots: \"Task
-  Space Inverse Dynamics\"'
+title: 'Prioritized Motion-Force Control of Constrained Fully-Actuated Robots: "Task
+  Space Inverse Dynamics"'
 authors:
 - Andrea Del Prete
 - Francesco Nori
