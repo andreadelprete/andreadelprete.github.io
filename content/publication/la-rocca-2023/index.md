@@ -28,4 +28,6 @@ abstract: Safety is often the most important requirement in robotics application
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2305.07535
+- name: Presentation
+  url: https://youtu.be/d_oXsKaJj8o
 ---
