@@ -22,7 +22,7 @@ external_link: ''
 url_code: 'https://github.com/andreadelprete/orc'
 url_pdf: ''
 url_slides: 'https://drive.google.com/drive/folders/1k8dJvZjvu2eXAbc_voIXrQdjUfSksdFz?usp=sharing'
-url_video: 'https://drive.google.com/drive/folders/1jY86wkFWQU4R5yOF53WuREYA6XhTOIYm?usp=sharing'
+url_video: 'https://www.youtube.com/watch?v=vWg4SMDJDQ0&list=PL4nPbSX5VFGjA3ZSbdtcVEeUSIzYeF0Xw'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -41,7 +41,7 @@ This course focuses on control of robotic systems, with special attention to met
 - implement, tune, and test control algorithms with the Python language
 
 
-Using the links above you can find videos and slides of all the lectures recorded in 2022. Since 2023, the suggested environment for coding has switched to docker. Installation instructions can be found [here](https://drive.google.com/drive/folders/1yB_6c4WcW8iM2OoO0Vb_JE-3eKr7n6Hz?usp=sharing).
+Using the links above you can find videos and slides of all the lectures recorded in 2022. Since 2023, the suggested environment for coding has switched to docker. Installation instructions can be found in the Github repo of the course (link above).
 
 # Content 
 The course includes approximately 32 hours of lectures (program below) and 16 hours of programming exercises.
@@ -50,28 +50,25 @@ The course includes approximately 32 hours of lectures (program below) and 16 ho
 
 * Review of robot kinematics, Jacobian, statics, Lagrangian dynamics
 * Joint motion control: PID, PD+gravity compensation, inverse dynamics
-* Task-space motion control
-* Impedance control
-* Quadratic-Programming based control
+* Operational-space control
+* Quadratic-Programming based control: underactuated systems, rigid contacts, multi-task control
 
 ##### Optimal Control
 
-* Global approaches: Dynamic Programming and Hamilton-Jacobi-Bellman Equation
-* Local approaches: Pontryagin’s Principle and direct methods
+* Overview: global vs local approaches
 * Direct methods: single shooting, multiple shooting and collocation
-* Numerical integration methods
-* Differential Dynamic Programming
 * Model Predictive Control: recursive feasibility, stability
+* Use-case: obstacle avoidance
+* Use-case: minimum-time optimal control
 
 ##### Reinforcement Learning
 
 * Markov Decision Processes
 * Dynamic Programming: Value and policy iteration
 * Prediction with Monte Carlo and Temporal Difference learning
-* Q-learning
-* SARSA
-* Value function approximation
-* Deep Q-Network
+* Q-learning and SARSA
+* Value function approximation and Deep Q-Network
+* Policy gradient methods
 
 
 ## Prerequisite

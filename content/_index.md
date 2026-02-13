@@ -139,6 +139,18 @@ sections:
   #     view: compact
   #     columns: '2'
   
+  - block: collection
+    id: talks
+    content:
+      title: Past & Upcoming Talks
+      count: 4
+      filters:
+        folders:
+          - event
+    design:
+      columns: '1'
+      view: showcase #compact, showcase, card, masonry
+
   - block: portfolio
     id: courses
     content:
@@ -222,16 +234,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Past & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
