@@ -6,7 +6,7 @@ event_url: https://www.tcoptrob.org/summer-school-2025/
 
 location: University of Patras, Greece
 
-summary: Combining Reinforcement Learning and Trajectory Optimization - The best of both worlds
+summary: Invited lecture at the Optimization for robotics summer school in Patras
 #abstract: In this talk I cover recent methods from the state of the art that combine Reinforcement Learning and Trajectory Optimization techniques. 
 
 # Talk start and end times.

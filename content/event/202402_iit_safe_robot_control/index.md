@@ -6,7 +6,7 @@ title: Safe robot control combining learning and model predictive control
 
 location: Italian Institute of Technology, Genova, Italy
 
-summary: Safe robot control combining learning and model predictive control
+summary: Invited talk at the Italian Institute of Technology
 #abstract: In this talk I cover recent methods from the state of the art that combine Reinforcement Learning and Trajectory Optimization techniques. 
 
 # Talk start and end times.
