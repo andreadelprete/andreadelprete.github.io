@@ -1,5 +1,5 @@
 ---
-title: Optimization and Learning for Robot Control
+title: Optimization and Learning for Robot Control (PhD)
 summary: A 15-hour course for PhD students focusing on modern optimal control and reinforcement learning techniques for robot control
 tags:
   - Trajectory Optimization

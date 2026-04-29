@@ -1,5 +1,5 @@
 ---
-title: Optimization and Learning for Robot Control
+title: Optimization and Learning for Robot Control (Master)
 summary: A 48-hour course for master students focusing on modern optimal control and reinforcement learning techniques for robot control
 tags:
   - Trajectory Optimization

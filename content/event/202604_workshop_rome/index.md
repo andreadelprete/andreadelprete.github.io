@@ -1,12 +1,12 @@
 ---
 title: Beyond Terminal Constraints - Safe Robot Control
 
-event:
+event: Cooperative UxV Platforms
 event_url:
 
 location: Rome, Italy
 
-summary: Invited talk at workshop, University Tor Vergata (Rome)
+summary: Invited talk at workshop "Cooperative UxV Platforms", University Tor Vergata (Rome)
 ####abstract: In this talk I cover recent methods from the state of the art that combine Reinforcement Learning and Trajectory Optimization techniques. 
 
 # Talk start and end times.
